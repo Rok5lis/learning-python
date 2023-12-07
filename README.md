@@ -1,0 +1,2 @@
+# learning-python
+hard man
